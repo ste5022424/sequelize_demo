@@ -1,5 +1,5 @@
 {
-  "name": "sequelize",
+  "name": "sequelizedemo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mysql2": "^1.6.5"
+    "config": "^3.1.0",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.8.12"
   }
 }
